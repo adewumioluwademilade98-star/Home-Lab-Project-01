@@ -25,9 +25,9 @@ My goal is to build practical technical skills through real-world configurations
 | TP-Link TL-R470T+ | Router and networking experiments | Connected; internet access restored |
 | Cisco router | Cisco IOS and routing practice | Planned |
 | Cisco Catalyst 2950 switch | Switching and VLAN practice | Planned |
-| Intel NUC 7i7DNK1E | Compact Windows administration and lab host | Available; setup pending |
-| ASUS RT-N66U | Potential wireless access point | Planned |
-| Console cable | Connect to Cisco equipment for configuration | Available |
+| Intel NUC 7i7DNK1E | Compact Windows administration and lab host | Working |
+| ASUS RT-N66U | Potential wireless access point | Working |
+| Console cable | Connect to Cisco equipment for configuration | Available, setup pending |
 
 ## Network Topology
 
